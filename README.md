@@ -1,16 +1,16 @@
 # Simple-Discord-Bot
-Simple agnostic bot design for text based commands and interactions.
+Simple minimalist bot design for custom bot deployments. Featuring essential text-based commands and interactions for server management and moderation.
 
 ## To-Do
 ### simple commands 
   - [ ] ping times 
-  - [ ] permmisions test ?
+  - [ ] permissions test ?
   - [ ] help page  
 ### complex commands
   - [ ] react commands
     - [ ] role selection
     - [ ] polling
-  - [ ] bulk rm role
-  - [ ] bulk give role
+  - [ ] bulk rm role/s
+  - [ ] bulk give role/s
   - [ ] mod mail
   
