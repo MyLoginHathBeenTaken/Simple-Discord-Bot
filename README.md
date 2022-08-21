@@ -2,11 +2,8 @@
 Simple minimalist bot design for custom bot deployments. Featuring essential text-based commands and interactions for server management and moderation.
 
 ## To-Do
-### simple commands 
-  - [ ] ping times 
-  - [ ] permissions test ?
-  - [ ] help page  
-### complex commands
+### Commands 
+  - [x] ping times 
   - [ ] react commands
     - [ ] role selection
     - [ ] polling
