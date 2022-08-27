@@ -22,7 +22,13 @@
     "discord-api-types": "^0.37.2",
     "discord.js": "^14.2.0",
     "erlpack": "^0.1.4",
+    "persistent-cache": "^1.1.2",
     "utf-8-validate": "^5.0.9",
     "zlib-sync": "^0.1.7"
+  },
+  "overrides": {
+    "node.flow": {
+      "node.extend": "2.0.2"
+    }
   }
 }
