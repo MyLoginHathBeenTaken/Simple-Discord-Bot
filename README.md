@@ -7,7 +7,5 @@ Simple minimalist bot design for custom bot deployments. Featuring essential tex
   - [ ] react commands
     - [ ] role selection
     - [ ] polling
-  - [ ] bulk rm role/s
-  - [ ] bulk give role/s
   - [ ] mod mail
   
